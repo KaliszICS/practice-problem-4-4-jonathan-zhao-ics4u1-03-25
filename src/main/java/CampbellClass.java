@@ -1,4 +1,4 @@
-public class CampbellClass {
+public final class CampbellClass {
 	private CampbellClass() {
 
 	}
